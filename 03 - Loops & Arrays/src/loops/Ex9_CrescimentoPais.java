@@ -12,10 +12,10 @@ public class Ex9_CrescimentoPais {
             count++;
             populacaoPaisA *= crescimentPaisA;
             populacaoPaisB *= crescimentoPaisB;
-
-            System.out.println("População País A: " + populacaoPaisA);
-            System.out.println("População País B: " + populacaoPaisB);
-            System.out.println("Contagem: " + count);
         }
+
+            System.out.println("População Final País A: " + populacaoPaisA);
+            System.out.println("População Final País B: " + populacaoPaisB);
+            System.out.println("Anos: " + count);
     }
 }
