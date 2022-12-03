@@ -11,7 +11,9 @@ public class Dev {
     private Set<Conteudo> conteudosInscritos = new LinkedHashSet<>();
     private Set<Conteudo> conteudosConcluidos = new LinkedHashSet<>();
 
-    public void inscreverBootcamp(Bootcamp bootcamp) {}
+    public void inscreverBootcamp(Bootcamp bootcamp) {
+
+    }
 
     public void progredir() {}
 
@@ -79,3 +81,4 @@ public class Dev {
     }
 
 }
+
